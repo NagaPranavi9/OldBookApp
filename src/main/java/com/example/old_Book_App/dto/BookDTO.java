@@ -7,7 +7,6 @@ public class BookDTO {
 
     private Long id;
     private String title;
-    private String author;
     private Long categoryId;
     private Long standardId;
     private String condition;
